@@ -1,0 +1,23 @@
+.root {
+  position: relative;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+  border-radius: 1px;
+  background-image: linear-gradient(270deg, #cbe3ff26 0%, #6fb2ffff 0%, #cbe3ff26 50%, #aed2fbff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.centralizedControlMonitoringSy {
+  color: #00386b;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Sequel Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
