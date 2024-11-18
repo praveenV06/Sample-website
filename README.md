@@ -1,4 +1,4 @@
-# Vite React TypeScript Project
+# React TypeScript Project
 
 This project is a web application built using Vite, React, and TypeScript. It serves as a template for creating modern web applications with a fast development environment and optimized production builds.
 
